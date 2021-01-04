@@ -20,3 +20,6 @@ function draw(event){
     console.log('circle', circle)
     displayComp.appendChild(circle)
 }
+
+
+
